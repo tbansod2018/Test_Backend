@@ -4,7 +4,7 @@
   "description": "Simple backend for testing deployment on Render",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"   // This tells npm how to start your app
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.18.2"
